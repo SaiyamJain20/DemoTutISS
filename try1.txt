@@ -1,3 +1,4 @@
 git add <fileName> -> adds file to git
 git commit -m <comment> -> commit the file
 git push -> pushes the files and finalises to GitHub
+git status -> tracks commits
